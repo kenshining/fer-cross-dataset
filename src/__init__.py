@@ -1,0 +1,1 @@
+# fer_wavelet package
