@@ -137,18 +137,6 @@ Statistical significance assessed via Welch's t-test. Complete pairwise comparis
 - **SCN alpha domain-shift detection**: 8.0% mean alpha reduction on cross-domain samples; above-median alpha samples achieve +0.080 accuracy delta
 - **Training stability**: CNN methods CV 3.2-8.6%; ViT-B/16 CV 25.1%
 
-## Citation
-
-```bibtex
-@inproceedings{cheng2026beyond,
-  title={Beyond Single-Dataset Performance: A Controlled Benchmark and Diagnostic Study
-         of Cross-Dataset Generalization in Facial Expression Recognition},
-  author={Cheng, Long},
-  booktitle={Proc. SPIE},
-  year={2026}
-}
-```
-
 ## License
 
 MIT
